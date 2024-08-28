@@ -7,7 +7,7 @@
 
 - [Model](#model)
 - [Dashboard](#daashboard)
-- 
+
 # Model
 Our ViMACSA dataset comprises 4,876 documents and 14,000 images. Each document is accompanied by up to 7 images. This dataset is constructed with the goal of recognizing both explicit aspects and implicit aspects in the document.
 
@@ -25,7 +25,7 @@ Our ViMACSA dataset comprises 4,876 documents and 14,000 images. Each document i
 *Table 1. Results on the F1 score of the models.*
 
 
-![Detailed results of the emotion labels from the Bert-multilingual model.](images/result_bestt.png)
+![Detailed results of the emotion labels from the Bert-multilingual model.](images/result_best.png)
 *Table 2. Detailed results of the emotion labels from the Bert-multilingual model.*
 
 ![Results on the F1 score of the models.](images/time.png)
