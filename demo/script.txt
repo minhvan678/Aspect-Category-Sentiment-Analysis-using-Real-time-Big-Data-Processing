@@ -1,0 +1,7 @@
+cd C:\kafka\
+.\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
+
+cd C:\kafka\
+bin\windows\kafka-server-start.bat .\config\server.properties
+
+bin\windows\kafka-topics.bat --create --topic traveloka --bootstrap-server localhost:9092
