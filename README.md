@@ -2,17 +2,12 @@
 # Overview
 *  Training a model for Aspect Category Sentiment Analysis task on Hotel data
 *  Build a real-time Spark dashboard interface system
-  
-<img src="images/overview_fcmf.png" width="512" height="512">
 
 ## Table of Contents
 
 - [Model](#model)
-- [Running The Code](#running-the-code)
-- [Compare with different baseline models](#compare-with-different-baseline-models)
-- [Citation](#citation)
-- [To Do](#todo)
-
+- [Dashboard](#daashboard)
+- 
 # Model
 Our ViMACSA dataset comprises 4,876 documents and 14,000 images. Each document is accompanied by up to 7 images. This dataset is constructed with the goal of recognizing both explicit aspects and implicit aspects in the document.
 
