@@ -9,8 +9,6 @@
 - [Dashboard](#daashboard)
 
 # Model
-Our ViMACSA dataset comprises 4,876 documents and 14,000 images. Each document is accompanied by up to 7 images. This dataset is constructed with the goal of recognizing both explicit aspects and implicit aspects in the document.
-
 <p align="left">
   <img src="images/model.png" />
 </p>
