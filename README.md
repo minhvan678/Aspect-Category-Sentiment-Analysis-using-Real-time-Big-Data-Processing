@@ -20,13 +20,19 @@
 
 ## Results
 ![Results on the F1 score of the models.](images/results_all_model.png)
+
+
 *Table 1. Results on the F1 score of the models.*
 
 
 ![Detailed results of the emotion labels from the Bert-multilingual model.](images/result_best.png)
+
+
 *Table 2. Detailed results of the emotion labels from the Bert-multilingual model.*
 
 ![Training time of each model.](images/time.png)
+
+
 *Training time of each model.*
 
 
