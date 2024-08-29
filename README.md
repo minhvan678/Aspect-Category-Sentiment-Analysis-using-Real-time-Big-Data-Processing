@@ -26,7 +26,7 @@
 ![Detailed results of the emotion labels from the Bert-multilingual model.](images/result_best.png)
 *Table 2. Detailed results of the emotion labels from the Bert-multilingual model.*
 
-![Results on the F1 score of the models.](images/time.png)
+![Training time of each model.](images/time.png)
 *Training time of each model.*
 
 
